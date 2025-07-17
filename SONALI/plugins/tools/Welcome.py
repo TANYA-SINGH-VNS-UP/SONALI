@@ -142,7 +142,7 @@ async def greet_group(_, member: ChatMemberUpdated):
 
 ❖𝐌ᴀᴅᴇ  𝐁ʏ [野买](https://t.me/NOBITA_SONG_BOT)
 """,
-            reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(f"𝐀ᴅᴅ 𝐌ᴇ 𝐁ᴀʙʏ", url=f"https://t.me/ElevateMusicBot?startgroup=true")]])
+            reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(f"𝐀ᴅᴅ 𝐌ᴇ 𝐁ᴀʙʏ", url=f"https://t.me/NOBITA_SONG_BOT?startgroup=true")]])
         )
     except Exception as e:
         LOGGER.error(e)
