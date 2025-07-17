@@ -1,4 +1,4 @@
-#<<<<<<<<<<<<<<Krish>>>>>>>>>>>>>>#
+#<<<<<<<<<<<<<<>>>>>野买 >>>>>>>>>#
 #<<<<<<<<<<<<<<>>>>>>>>>>>>>>#
 import os
 from PIL import ImageDraw, Image, ImageFont, ImageChops
