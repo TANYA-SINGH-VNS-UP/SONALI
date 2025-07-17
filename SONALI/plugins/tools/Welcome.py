@@ -140,7 +140,7 @@ async def greet_group(_, member: ChatMemberUpdated):
 ┣ 𝟒 ➥ ᴅᴏɴᴛ sᴇɴᴅ ᴀᴅᴜʟᴛ sᴛᴜғғ
 ┗━━━━━━━━━━━━━━━━━      
 
-❖𝐌ᴀᴅᴇ  𝐁ʏ [𝐊ʀɪsʜ 𝐌ᴜsɪᴄ](https://t.me/krishnetwork)
+❖𝐌ᴀᴅᴇ  𝐁ʏ [野买](https://t.me/NOBITA_SONG_BOT)
 """,
             reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(f"𝐀ᴅᴅ 𝐌ᴇ 𝐁ᴀʙʏ", url=f"https://t.me/ElevateMusicBot?startgroup=true")]])
         )
